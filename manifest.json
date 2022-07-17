@@ -1,0 +1,13 @@
+{
+    "name": "Digital Clock",
+    "description": "Digital Clock with Colorful Glowing Effect",
+    "version": "1.0",
+    "manifest_version":3,
+    "action": {
+        "default_popup": "Popup.html",
+        "default_icon": "red_clock.png"
+    },
+    "icons": {
+        "128": "red_clock.png"
+    }
+}
